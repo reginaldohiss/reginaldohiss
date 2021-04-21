@@ -9,6 +9,7 @@ This is my portfolio. [Portfolio](https://reginaldohiss.github.io/Reginaldo-Hiss
 
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logoColor=fff&logo=laravel)&nbsp;
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-F44611?style=flat&logoColor=fff&logo=codeIgniter)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-4682B4?style=flat&logoColor=fff&logo=jquery)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-3CB371?style=flat&logoColor=fff&logo=vue.js)&nbsp;
