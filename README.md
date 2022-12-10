@@ -27,7 +27,7 @@ This is my portfolio. [Portfolio](https://reginaldohiss.github.io/Reginaldo-Hiss
 ![GitHub](https://img.shields.io/badge/-GitHub-1C1C1C?style=flat&logoColor=fff&logo=github)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-1E90FF?style=flat&logoColor=fff&logo=wordpress)&nbsp;
 ![Composer](https://img.shields.io/badge/-Composer-fff?style=flat&logoColor=000&logo=composer)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-fff?style=flat&logoColor=1a68d3&logo=flutter)&nbsp
+![Flutter](https://img.shields.io/badge/-Flutter-fff?style=flat&logoColor=1a68d3&logo=flutter)&nbsp;
 
 <center>
   <table>
