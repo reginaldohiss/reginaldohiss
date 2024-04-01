@@ -2,8 +2,6 @@
 
 I am a Software Developer, currently developing diverse projects. I implemented the concepts of Clean Architecture and used the standards such as: Builder, BDD, Composite, DDD, Decorator, Dependecy Injection, POO, Factory and Strategy, TDD in the clean code structure.
 
-This is my portfolio. [Portfolio](https://reginaldohiss.github.io/Reginaldo-Hiss/)
-
 💻  &nbsp; Programming: <br/>
 
 
