@@ -30,8 +30,8 @@ I am a Software Developer, currently developing diverse projects. I implemented 
 <center>
   <table>
     <tr>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=reginaldohiss&theme=dracula"/></td>
-        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldohiss&layout=compact&theme=dracula" /></td>
+<!--         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=reginaldohiss&theme=dracula"/></td> -->
+<!--         <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reginaldohiss&layout=compact&theme=dracula" /></td> -->
     </tr>   
   </table>
 </center>  
